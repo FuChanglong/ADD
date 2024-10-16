@@ -1,6 +1,6 @@
-train: ../../Python/dataset/uav_dataset/train/images
-val: ../../Python/dataset/uav_dataset/val/images
-test: ../../Python/dataset/uav_dataset/test/images
+train:dataset/uav_dataset/train/images
+val: dataset/uav_dataset/val/images
+test: dataset/uav_dataset/test/images
 
 nc: 1
 names: [ 'uav' ]
